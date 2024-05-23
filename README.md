@@ -1,7 +1,7 @@
 # <img src="https://github.com/m-mathilde34/m-mathilde34/assets/131172286/38f57570-2695-45e3-9f07-0fb6040a8999" width="75" height="75"> Hi, I'm Mathilde!
 
 
-✅ I am currently looking for a role as a software developer
+✅ I am currently looking for a role as a software/AI/ML developer
 
 Having just completed a Msc of Computer Science with the University of Bath, I am now looking for a role as a software developer.
 My dissertation involved the creation of a novel dataset, and I am particularly interested in Machine Learning as a way to protect and preserve our cultural heritage for future generations to enjoy.
@@ -33,7 +33,7 @@ Currently, I am working on modelling the Solar System in Java as well as creatin
 - I love the theatre, concerts, festivals, and building Lego sets (I mean who doesn't, right?)
 
 ## 📨 Get In Touch :
-[<img src="https://github.com/m-mathilde34/m-mathilde34/assets/131172286/8fd84cef-bc05-4b1a-a201-ef78b2eedb4e" width="50" height="50">](https://www.linkedin.com/in/mathilde-martin-ba-45901a1b9/) [<img src="https://github.com/m-mathilde34/m-mathilde34/assets/131172286/5441a351-c18a-4e24-810f-384cabcbdef3" width="50" height="50">](mailto:m.mathilde34@live.fr)
+[<img src="https://github.com/m-mathilde34/m-mathilde34/assets/131172286/8fd84cef-bc05-4b1a-a201-ef78b2eedb4e" width="50" height="50">](https://www.linkedin.com/in/m-mathilde34/) [<img src="https://github.com/m-mathilde34/m-mathilde34/assets/131172286/5441a351-c18a-4e24-810f-384cabcbdef3" width="50" height="50">](mailto:m.mathilde34@live.fr)
 
 ***
 <p align="center" width="100%"> <img src=https://github.com/m-mathilde34/m-mathilde34/assets/131172286/eff5ada9-6c97-490a-a9c4-cdf704f3d3ed" width="75" height="75"> </p>
