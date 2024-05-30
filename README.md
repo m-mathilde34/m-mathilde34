@@ -5,7 +5,7 @@
 
 Having just completed a Msc of Computer Science with the University of Bath, I am now looking for a role as a software developer.
 My dissertation involved the creation of a novel dataset, and I am particularly interested in Machine Learning as a way to protect and preserve our cultural heritage for future generations to enjoy.
-Currently, I am working on modelling the Solar System in Java.
+Currently, I am working on modelling the Solar System in Java, whilst also building up my own online portfolio making use of CSS, SaSS, Bootstrap, and HTML.
 
 ## ⚙️ Languages and Tools:
 <img src="https://github.com/m-mathilde34/m-mathilde34/assets/131172286/a7fe5806-d3bf-4070-98ea-10581c5b814a" width="50" height="50">
@@ -15,6 +15,7 @@ Currently, I am working on modelling the Solar System in Java.
 <img src="https://github.com/m-mathilde34/m-mathilde34/assets/131172286/fdeb1652-814c-486b-9d53-f457f4eb90c5" width="50" height="50">
 <img src="https://github.com/m-mathilde34/m-mathilde34/assets/131172286/fc852e65-852f-49af-a5e8-e5e8760cff78" width="50" height="50">
 <img src="https://github.com/m-mathilde34/m-mathilde34/assets/131172286/c5d357f3-c63d-4863-9e60-017401290c08" width="50" height="50">
+<img src="https://github.com/m-mathilde34/m-mathilde34/assets/131172286/fea70e47-7d45-469b-ae12-6f680f8eef34" width="50" height="50">
 <img src="https://github.com/m-mathilde34/m-mathilde34/assets/131172286/c80a6992-7f4f-4faa-adc0-951f5ac12cae" width="50" height="50">
 <img src="https://github.com/m-mathilde34/m-mathilde34/assets/131172286/192a8752-7e2d-4d8e-8425-b43efb1c5d7e" width="50" height="50">
 <img src="https://github.com/m-mathilde34/m-mathilde34/assets/131172286/e8c67f19-a329-4b7c-861e-db1899704ac6" width="50" height="50">
@@ -23,6 +24,7 @@ Currently, I am working on modelling the Solar System in Java.
 <img src="https://github.com/m-mathilde34/m-mathilde34/assets/131172286/4fd2d1b7-9760-4315-83ef-208ecb6b1973" width="50" height="50">
 <img src="https://github.com/m-mathilde34/m-mathilde34/assets/131172286/a33dbf4c-f47a-47a7-afd6-dee1344b7215" width="50" height="50">
 <img src="https://github.com/m-mathilde34/m-mathilde34/assets/131172286/2909b40d-3a9a-4e28-9094-f60e19e228e3" width="50" height="50">
+
 
 <br/>
 
