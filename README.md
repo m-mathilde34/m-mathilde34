@@ -5,7 +5,7 @@
 
 Having just completed a Msc of Computer Science with the University of Bath, I am now looking for a role as a software developer.
 My dissertation involved the creation of a novel dataset, and I am particularly interested in Machine Learning as a way to protect and preserve our cultural heritage for future generations to enjoy.
-Currently, I am working on modelling the Solar System in Java, whilst also building up my own online portfolio making use of CSS, SaSS, Bootstrap, and HTML.
+Currently, I am working on modelling the Solar System in Java, whilst also creating my online portfolio from scratch making use of CSS, SaSS, Bootstrap, and HTML.
 
 ## ⚙️ Languages and Tools:
 <img src="https://github.com/m-mathilde34/m-mathilde34/assets/131172286/a7fe5806-d3bf-4070-98ea-10581c5b814a" width="50" height="50">
