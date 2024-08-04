@@ -5,7 +5,7 @@
 
 Having just completed a Msc of Computer Science with the University of Bath, I am now looking for a role as a software developer.
 My dissertation involved the creation of a novel dataset, and I am particularly interested in Machine Learning as a way to protect and preserve our cultural heritage for future generations to enjoy.
-Currently, I am working on two projects : modelling the Solar System, and creating my online portfolio from scratch making use of HTML, CSS, SaSS, and Bootstrap.
+Currently, I am working on modelling the Solar System.
 
 ## ⚙️ Languages and Tools:
 <img src="https://github.com/m-mathilde34/m-mathilde34/assets/131172286/a7fe5806-d3bf-4070-98ea-10581c5b814a" width="50" height="50">
@@ -35,7 +35,7 @@ Currently, I am working on two projects : modelling the Solar System, and creati
 - I love the theatre, concerts, festivals, and building Lego sets (I mean who doesn't, right?)
 
 ## 📨 Get In Touch :
-[<img src="https://github.com/m-mathilde34/m-mathilde34/assets/131172286/8fd84cef-bc05-4b1a-a201-ef78b2eedb4e" width="50" height="50">](https://www.linkedin.com/in/m-mathilde34/) [<img src="https://github.com/m-mathilde34/m-mathilde34/assets/131172286/5441a351-c18a-4e24-810f-384cabcbdef3" width="50" height="50">](mailto:m.mathilde34@live.fr)
+[<img src="https://github.com/m-mathilde34/m-mathilde34/assets/131172286/8fd84cef-bc05-4b1a-a201-ef78b2eedb4e" width="50" height="50">](https://www.linkedin.com/in/m-mathilde34/) [<img src="https://github.com/m-mathilde34/m-mathilde34/assets/131172286/5441a351-c18a-4e24-810f-384cabcbdef3" width="50" height="50">](mailto:m.mathilde34@live.fr)[<img src="https://github.com/user-attachments/assets/3dae8a91-e179-4af3-aea7-c7b974e720be" width="50" height="50">](https://github.com/m-mathilde34)
 
 ***
 <p align="center" width="100%"> <img src=https://github.com/m-mathilde34/m-mathilde34/assets/131172286/eff5ada9-6c97-490a-a9c4-cdf704f3d3ed" width="75" height="75"> </p>
