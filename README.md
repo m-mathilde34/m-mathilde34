@@ -14,6 +14,7 @@ Most recently, I created a couple of websites to showcase my skills as a web dev
 <img src="https://github.com/m-mathilde34/m-mathilde34/assets/131172286/70fd93d5-df68-497f-93ee-21b10bceead9" width="50" height="50">
 <img src="https://github.com/m-mathilde34/m-mathilde34/assets/131172286/fd4719c3-0af5-4963-b737-d553ef5b922d" width="50" height="50">
 <img src="https://github.com/m-mathilde34/m-mathilde34/assets/131172286/fdeb1652-814c-486b-9d53-f457f4eb90c5" width="50" height="50">
+<img src="https://github.com/user-attachments/assets/12dd2fde-8da4-40f9-b84e-2799c5df20c9" width="50" height="50">
 <img src="https://github.com/m-mathilde34/m-mathilde34/assets/131172286/fc852e65-852f-49af-a5e8-e5e8760cff78" width="50" height="50">
 <img src="https://github.com/m-mathilde34/m-mathilde34/assets/131172286/c5d357f3-c63d-4863-9e60-017401290c08" width="50" height="50">
 <img src="https://github.com/m-mathilde34/m-mathilde34/assets/131172286/fea70e47-7d45-469b-ae12-6f680f8eef34" width="50" height="50">
