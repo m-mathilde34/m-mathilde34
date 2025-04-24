@@ -35,7 +35,7 @@ Most recently, I created a couple of websites to showcase my skills as a web dev
 - I am an avid reader 📖
 - My favourite show is Stargate SG-1 ✨
 - I have two cats : 🐈‍⬛ Charlie and 🐈 Perceval
-- I love the theatre, books, concerts, festivals, and building Lego sets (I mean who doesn't, right?)
+- I love the theatre, books, concerts, festivals, and building Lego sets
 
 ## 📨 Get In Touch :
 [<img src="https://github.com/m-mathilde34/m-mathilde34/assets/131172286/8fd84cef-bc05-4b1a-a201-ef78b2eedb4e" width="50" height="50">](https://www.linkedin.com/in/m-mathilde34/) [<img src="https://github.com/m-mathilde34/m-mathilde34/assets/131172286/5441a351-c18a-4e24-810f-384cabcbdef3" width="50" height="50">](mailto:m.mathilde34@live.fr)[<img src="https://github.com/user-attachments/assets/3dae8a91-e179-4af3-aea7-c7b974e720be" width="50" height="50">](https://m-mathilde34.github.io/)
