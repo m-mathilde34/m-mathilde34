@@ -5,7 +5,7 @@
 
 Having completed a Msc of Computer Science with the University of Bath, I am now looking for a role that would kickstart my career as a software developer.
 My dissertation involved the creation of a novel dataset, and I am particularly interested in Machine Learning as a way to protect and preserve our cultural heritage for future generations to enjoy.
-Most recently, I created a couple of websites to showcase my skills as a web developer making use of HTML, CSS, JavaScript, Sass, and Bootstrap among other skills.
+Most recently, I created a couple of websites to showcase my skills as a web developer making use of HTML, CSS, JavaScript, Sass, JQuery, and Bootstrap among other skills.
 
 ## ⚙️ Languages and Tools:
 <img src="https://github.com/m-mathilde34/m-mathilde34/assets/131172286/a7fe5806-d3bf-4070-98ea-10581c5b814a" width="50" height="50">
